@@ -2,7 +2,7 @@
 function updateExperienceSection() {
   const experienceData = [
     {
-      title: "CHIEF DATA SCIENTIST",
+      title: "PRINCIPLE TECHNICAL CONSULTANT (AI/ML)",
       company: "Bayseian",
       location: "London, UK",
       period: "Nov 2023 – Present",
